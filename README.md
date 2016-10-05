@@ -1,5 +1,5 @@
 # GifExample
-This is the sample source code of card flip effect in android.
+This is the sample source code using gif image in android.
 
 Steps by steps tutorial please visit http://www.questdot.com/android-load-gif-image-tutorial/
 
